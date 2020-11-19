@@ -7,6 +7,3 @@ Enviornment:
 Board       : https://www.st.com/en/evaluation-tools/32f429idiscovery.html
 IDE         : STM32CubeIde
 Generator   : STM32CubeMx
-
-
-
